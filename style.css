@@ -3,6 +3,11 @@ body{
     text-align: center;
 }
 
+.header-img{
+    width: 600px;
+    height:500px;
+}
+
 p{
     color: rgb(0, 255, 0);
 }
