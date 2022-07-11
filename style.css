@@ -1,6 +1,7 @@
 body{
     background-color: rgb(13, 0, 25);
     text-align: center;
+    font-family: 'Rubik', sans-serif;
 }
 
 .header-img{
@@ -14,6 +15,10 @@ p{
 
 h1{
     font-family: 'Bebas Neue', cursive;
+    color: rgb(175, 94, 255);
+}
+
+h2{
     color: rgb(175, 94, 255);
 }
 
