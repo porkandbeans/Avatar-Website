@@ -39,6 +39,10 @@ h1{
     color: rgb(0, 255, 0);
 }
 
+.text-box h1:hover{
+    color: blueviolet;
+}
+
 .text-box ul{
     text-align: left;
     color: antiquewhite;
